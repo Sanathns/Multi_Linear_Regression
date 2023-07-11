@@ -1,2 +1,2 @@
 # Multi_Linear_Regression
-This repository contains my assignment on multi-linear regression, 
+This repository contains my assignment on multi-linear regression, completed during my data science course. It showcases the implementation and analysis of multi-linear regression techniques for modeling relationships among multiple variables. The assignment highlights the use of statistical methods to interpret coefficients, assess model performance, and make predictions. By sharing this repository, I aim to contribute to the data science community and facilitate learning in the field of regression analysis.
